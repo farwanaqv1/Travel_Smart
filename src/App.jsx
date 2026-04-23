@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import BookASession from "./BookASession";
 import About from "./About";
 import Destination from "./Destination";
-import TripCatalog from "./tripCatalog";
+import TripCatalog from "./TripCatalog";
 import Contact from "./Contact";
 import RomanticDestination from'./RomanticDestination';
 import Detail from "./Detail";
